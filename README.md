@@ -6,3 +6,6 @@ Você poderá cadastrar seus usuarios, projetos e ideias para os projetos, e a c
 O sistema sera desenvolvido inicialmente para arquitetura web utilizando HTML, CSS, Javascript e PHP e a poderosíssima framework YeAPF! permitindo que o sistema seja migrado para mobile facilmente, permitindo assim que você gerencie seus projetos de qualquer lugar, acompanhando prasos, lendo as reuniões diarias, possiveis problemas ou mudanças na arquitetura do projeto.
 
 Empolgado? Bom eu também! Então vamos la!!!
+
+1° Commit
+- Desenvolvido Html da tela de login e montado a estrutura do codigo JS com a Framework YeAPF!
