@@ -1,0 +1,28 @@
+.body{
+ background-color: white; 
+}
+
+#vw_novo{
+  margin-top: 3%;
+}
+
+.msgApresentacao{
+  font-weight: 900;
+}
+
+.margemLateral{
+  margin: 1% 0% 1% 0%;
+}
+
+.sessao{
+	margin-top: -32px;
+	font-size: 25px;
+}
+
+#txtReino{
+	position: absolute;
+	margin-top: -20%;
+	margin-left: 15%;
+	font-size: 35px;
+	color: aliceblue;
+}
